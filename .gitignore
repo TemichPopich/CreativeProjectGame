@@ -1,0 +1,7 @@
+.vs
+*.sln
+Intermediate/
+Saved/
+Binaries/
+DerivedDataCache/
+Build/
